@@ -2,7 +2,8 @@
 
 What sells, who buys and when, from **1,000 retail transactions**. Built with Excel pivot tables and KPI formulas.
 
-"C:\Users\PC\Downloads\files (3)\GitHub_Upload_Kit_Femi_Ige\retail-customer-analysis-excel\assets\21_retail_category_sales.png"
+<img width="1350" height="630" alt="21_retail_category_sales" src="https://github.com/user-attachments/assets/5af8bba1-b855-49fc-bd7f-9283528136be" />
+
 
 ## At a glance
 
@@ -27,9 +28,9 @@ A retailer wants to know which categories and customers drive revenue, when sale
 - **Gender:** the split is nearly even (about 51% female)
 - **Months:** May is the peak and September the weakest full month
 
-![Revenue by age group](assets/22_retail_age_group.png)
-![Sales by gender](assets/23_retail_gender.png)
-![Monthly trend](assets/24_retail_monthly_trend.png)
+<img width="1350" height="720" alt="22_retail_age_group" src="https://github.com/user-attachments/assets/7249beb5-e406-45de-acef-e8a8eca4782a" />
+<img width="1500" height="690" alt="24_retail_monthly_trend" src="https://github.com/user-attachments/assets/abbe4176-05d5-47c2-b5d3-4d492c3d62ed" />
+<img width="900" height="750" alt="23_retail_gender" src="https://github.com/user-attachments/assets/50cb4da3-95a2-4c54-a0c3-1d9087f7b577" />
 
 ## Limitations
 
